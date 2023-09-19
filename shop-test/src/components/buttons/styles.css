@@ -1,0 +1,9 @@
+.btn-container {
+    background-color: #40C980;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    text-align: center;
+}
